@@ -1,0 +1,17 @@
+{
+  "name": "task_cli",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "task.js",
+  "scripts": {
+    "start": "node task.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
